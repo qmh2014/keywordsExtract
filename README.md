@@ -1,8 +1,10 @@
 # keywordsExtract
 针对包含&amp;、|、（、）四种符号的词关系表达式，抽取出规则下的词
+
 java Project
-主类：com.kw.extract.main.KwExtract
+>主类：com.kw.extract.main.KwExtract
 栈类：MyStack,采用List模拟栈操作封装类
+
 
 # 1. 需求
 例如用户给定一个包含与或关系的关键词匹配规则：
